@@ -3,7 +3,8 @@ Cebu Flightgear Custom Scenery (RVPM)
 
 Notes:
 
-* It Wont work if you don't have the terragit scenery,
+* Standalone FlightGear Scenery Package
+* It also distributes via terragit scenery,
 * Download terragit on www.github.com/FGMEMBERS-TERRAGIT
 * RPVM is located under the e120n10 scenery tile
 * A slight glitch is seen at the hills in Cebu City
