@@ -61058,7 +61058,7 @@ name "Mesh74"
 kids 8
 OBJECT poly
 name "_Concret"
-texture "_Concret.jpg"
+texture "Concret.png"
 crease 45.000000
 numvert 538
 -53.657 28.508 -242.129
@@ -65425,7 +65425,7 @@ refs 3
 kids 0
 OBJECT poly
 name "_Concr01"
-texture "_Concr01.jpg"
+texture "Concr01.png"
 crease 45.000000
 numvert 97
 -35.4878 -3.85667 -221.452
@@ -66117,7 +66117,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Concrete"
-texture "Concrete.jpg"
+texture "Concrete.png"
 crease 45.000000
 numvert 52
 -55.0636 30.25 -243.672
@@ -66500,7 +66500,7 @@ refs 3
 kids 0
 OBJECT poly
 name "_Translu"
-texture "_Translu.jpg"
+texture "Translu.png"
 crease 45.000000
 numvert 380
 -39.3406 28.508 -226.426
@@ -69324,7 +69324,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Roofing_"
-texture "Roofing_.jpg"
+texture "Roofing.png"
 crease 45.000000
 numvert 9
 0.84996 30.25 -310.4

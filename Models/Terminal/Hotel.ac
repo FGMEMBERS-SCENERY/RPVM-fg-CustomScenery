@@ -151,7 +151,7 @@ refs 3
 kids 0
 OBJECT poly
 name "0030_O07"
-texture "0030_O07.jpg"
+texture "0030_O07.png"
 crease 45.000000
 numvert 4
 18.9082 155.688 -446.069
@@ -174,7 +174,7 @@ refs 3
 kids 0
 OBJECT poly
 name "0030_O05"
-texture "0030_O05.jpg"
+texture "0030_O05.png"
 crease 45.000000
 numvert 4
 -60.1309 155.688 -374.41
@@ -197,7 +197,7 @@ refs 3
 kids 0
 OBJECT poly
 name "0030_O08"
-texture "0030_O08.jpg"
+texture "0030_O08.png"
 crease 45.000000
 numvert 5
 -43.4649 155.688 -356.027
@@ -227,7 +227,7 @@ refs 3
 kids 0
 OBJECT poly
 name "0030_O02"
-texture "0030_O02.jpg"
+texture "0030_O02.png"
 crease 45.000000
 numvert 4
 -98.2003 -1.59607e-012 -306.402
@@ -250,7 +250,7 @@ refs 3
 kids 0
 OBJECT poly
 name "0030_O06"
-texture "0030_O06.jpg"
+texture "0030_O06.png"
 crease 45.000000
 numvert 5
 -23.1896 155.688 -374.41
@@ -280,7 +280,7 @@ refs 3
 kids 0
 OBJECT poly
 name "0030_O04"
-texture "0030_O04.jpg"
+texture "0030_O04.png"
 crease 45.000000
 numvert 4
 35.5741 -1.60243e-012 -427.687
@@ -607,7 +607,7 @@ refs 3
 kids 0
 OBJECT poly
 name "0030_O03"
-texture "0030_O03.jpg"
+texture "0030_O03.png"
 crease 45.000000
 numvert 4
 -6.52368 -1.64932e-012 -356.027
@@ -630,7 +630,7 @@ refs 3
 kids 0
 OBJECT poly
 name "0030_O01"
-texture "0030_O01.jpg"
+texture "0030_O01.png"
 crease 45.000000
 numvert 4
 -98.2003 -1.59607e-012 -306.402

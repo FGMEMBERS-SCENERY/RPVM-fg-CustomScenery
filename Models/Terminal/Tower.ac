@@ -212,7 +212,7 @@ refs 3
 kids 0
 OBJECT poly
 name "_Translu"
-texture "_Translu.jpg"
+texture "Translu.png"
 crease 45.000000
 numvert 4
 -84.3297 5.54494 -183.542

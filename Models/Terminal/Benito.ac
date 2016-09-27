@@ -11,7 +11,7 @@ loc -23.4086 -5.33524 0
 kids 4
 OBJECT poly
 name "Metal_Co"
-texture "Metal_Co.jpg"
+texture "Metal_Co.png"
 crease 45.000000
 numvert 26
 -48.4337 22.3125 -132.965
@@ -342,7 +342,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Metal_Al"
-texture "Metal_Al.jpg"
+texture "Metal_Al.png"
 crease 45.000000
 numvert 12
 55.0473 13.875 -78.0097

@@ -2365,7 +2365,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Metal_Al"
-texture "Metal_Al.jpg"
+texture "Metal_Al.png"
 crease 45.000000
 numvert 8
 3.56152 6.83562 -323.372
@@ -2428,7 +2428,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Metal_Co"
-texture "Metal_Co.jpg"
+texture "Metal_Co.png"
 crease 45.000000
 numvert 20
 -0.258584 9.375 -296.903
@@ -2845,7 +2845,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Transluc"
-texture "Transluc.jpg"
+texture "Transluc.png"
 crease 45.000000
 numvert 72
 -0.258584 5.20862 -309.998
@@ -3152,7 +3152,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Wood_Che"
-texture "Wood_Che.jpg"
+texture "Wood_Che.png"
 crease 45.000000
 numvert 4
 8.57744 3.01394 -349.841
@@ -3175,7 +3175,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Fencing_"
-texture "Fencing_.png"
+texture "Fencing.png"
 crease 45.000000
 numvert 8
 -0.258584 4.875 -323.372
@@ -3230,7 +3230,7 @@ crease 45.000000
 kids 15
 OBJECT poly
 name "Mesh01"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 132
 -0.258584 3.6104 -330.478
@@ -4929,7 +4929,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh02"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 24
 -0.312728 3.70808 -329.938
@@ -5224,7 +5224,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh03"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 20
 -0.312728 3.93396 -329.737
@@ -5467,7 +5467,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh04"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 24
 -0.312728 3.70808 -328.905
@@ -5762,7 +5762,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh05"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 86
 -0.312728 3.54649 -328.398
@@ -6887,7 +6887,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh06"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 28
 -0.312728 3.40159 -327.879
@@ -7258,7 +7258,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh07"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 12
 -0.312728 3.46442 -327.413
@@ -7397,7 +7397,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh08"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 28
 -0.312728 3.40159 -326.763
@@ -7768,7 +7768,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh09"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 18
 -0.258584 3.54721 -326.409
@@ -7985,7 +7985,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh10"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 8
 -0.312728 3.40159 -326.118
@@ -8072,7 +8072,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh11"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 28
 -0.312728 3.40159 -325.564
@@ -8443,7 +8443,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh12"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 16
 -0.312728 3.87113 -325.221
@@ -8634,7 +8634,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh13"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 8
 -0.312728 3.40159 -324.961
@@ -8721,7 +8721,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh14"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 144
 -0.312728 3.80994 -324.31
@@ -10600,7 +10600,7 @@ refs 3
 kids 0
 OBJECT poly
 name "Mesh15"
-texture "light_sk.jpg"
+texture "light_sk.png"
 crease 45.000000
 numvert 20
 -0.312728 3.93396 -324.116
