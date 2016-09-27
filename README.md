@@ -33,6 +33,7 @@ RPVM is the homebase of Visayan Airways
 ***
 
 :copyright: 2016, FGPhilippinoPilot
+:copyright: 2016, D-LASER #Project3000
 License: GPL2+
 
 This program is free software; you can redistribute it and/or
