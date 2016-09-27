@@ -1,6 +1,8 @@
 Cebu Flightgear Custom Scenery (RVPM)
 --------------------------------------
 
+![Image](fgfs-screen-001.png)
+
 Notes:
 
 * Standalone FlightGear Scenery Package
