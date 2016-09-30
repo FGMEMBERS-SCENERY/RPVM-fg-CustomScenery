@@ -9,7 +9,6 @@ Notes:
 * It also distributes via terragit scenery,
 * Download terragit on www.github.com/FGMEMBERS-TERRAGIT
 * RPVM is located under the e120n10 scenery tile
-* A slight glitch is seen at the hills in Cebu City
 
 Very early work, done via Sketch Up, converted via AC3D, you can help and 
 contribute in any way you can, just preserve the realism of the airport ;)
@@ -34,6 +33,8 @@ RPVM is the homebase of Visayan Airways
 
 :copyright: 2016, FGPhilippinoPilot
 :copyright: 2016, D-LASER #Project3000
+:copyright: 2016, IAHM-COL
+:copyright: 2016, D-ECHO
 License: GPL2+
 
 This program is free software; you can redistribute it and/or
